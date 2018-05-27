@@ -1,0 +1,6 @@
+git clone <repo_url> - склонировать репозиторий
+git status - посмотреть статус
+git add <file_name> - добавить файл
+git commit -m "<message>" - создать коммит
+git push - залить все коммиты
+git pull - забрать все коммиты
